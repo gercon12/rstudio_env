@@ -19,6 +19,9 @@ The preview shows you a rendered HTML copy of the contents of the editor. Conseq
 ```{r}
 install.packages("arules")
 library(arules)
+
+data_hogar =read.csv('C:/Users/GContreras/Downloads/db_csv_/HOGAR_BDP.csv', sep=",")
+View(data_hogar)
 ```
 
 
