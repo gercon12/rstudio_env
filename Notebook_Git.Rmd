@@ -23,6 +23,8 @@ library(arules)
 data_hogar =read.csv('C:/Users/GContreras/Downloads/db_csv_/HOGAR_BDP.csv', sep=",")
 View(data_hogar)
 
+data_vivienda =read.csv('C:/Users/GContreras/Downloads/db_csv_/VIVIENDA_BDP.csv', sep=",")
+View(data_vivienda)
 ```
 
 
